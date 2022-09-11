@@ -1,4 +1,5 @@
-# LISAandNEA
+# Automatically detecting near-Earth asteroids with the LISA space-based gravitational wave observatory
+
 Code for my MSc in Space Science and Technology at The Open University
 
 ## Analysis of external data
